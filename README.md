@@ -1,6 +1,13 @@
-# <Project Name>
-  
+
+
+## IGGAN samples
 ![GAN outputs](IGGAN_explore_output_02.gif)
+
+## #gay skin tone analysis
+![top posts skin tone clustering](skin_colors_top_cluster.png)
+![recent posts skin tone clustering](skin_colors_recent_cluster.png)
+
+## explore feed analysis
 
 
 ### Support or Contact
